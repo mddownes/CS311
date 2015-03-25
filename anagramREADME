@@ -1,0 +1,6 @@
+Matthew Downes
+
+I did this assignment in Java.
+The executable is already in there so to run it is simply- java Anagrams dict1 anagram1.
+dict1 and anagram1 are both command line arguments processed by the main method.
+The same is used for dict2 and anagram2.
