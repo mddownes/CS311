@@ -100,7 +100,6 @@ public class Anagrams{
 			bw.write(objArray[0].getWord());
 			for(int i = 1; i < objArray.length;i++){
 				if(objArray[i].getValue() == objArray[i-1].getValue()){
-					System.out.println("Anagram");
 					bw.write("  -  ");
 					bw.write(objArray[i].getWord());
 
